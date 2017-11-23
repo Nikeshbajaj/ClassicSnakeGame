@@ -10,3 +10,14 @@
 
 ## How to Play
 Thats really easy... I know you will figure it out!!!
+
+
+
+
+**@Author : Nikesh Bajaj**
+
+**PhD Student @ QMUL and UNIGE**
+
+**n.bajaj@qmul.ac.uk**
+
+**http://nikeshbajaj.in**
