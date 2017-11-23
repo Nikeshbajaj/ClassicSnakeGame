@@ -13,6 +13,12 @@ Thats really easy... I know you will figure it out!!!
 
 
 
+## New Two player SNAKE GAME
+You can desing a Two player snake game or Multi-player snake game for instast. For playing one like it
+go to the [link](http://nikeshbajaj.in/snakegame/)
+
+Its quite fun realy!!!!!
+
 
 **@Author : Nikesh Bajaj**
 
