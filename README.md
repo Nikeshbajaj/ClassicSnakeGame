@@ -6,7 +6,7 @@
 
 ## How to Run
 1. Download reposetory
-2. Open "SnakeGame_Classic v1.0.html" file
+2. Open "SnakeGame_Classic v1.0.html" file in any browerser
 
-
-
+## How to Play
+Thats really easy... I know you will figure it out!!!
