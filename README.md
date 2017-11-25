@@ -17,6 +17,7 @@ Thats really easy... I know you will figure it out!!!
 #### You can desing a Two player snake game or Multi-player snake game for instast. For playing one like it go to the ###
 * **Description: - [http://nikeshbajaj.in/fun/](http://nikeshbajaj.in/fun/)**
 * **Game : -[http://nikeshbajaj.in/snakegame/](http://nikeshbajaj.in/snakegame/)**
+* Or **[Here for better view](http://nikeshbajaj.in/wp-content/uploads/2017/03/SnakeGame_v3.0.html)**
 
 Its quite fun realy!!!!!
 
