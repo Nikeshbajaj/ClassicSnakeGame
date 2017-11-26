@@ -1,7 +1,7 @@
 # Classic Snake Game
 # Javascript code using P5js
 
-### **[View on Github Page](https://nikeshbajaj.github.io/ClassicSnakeGame/)**
+### **V[iew on Github Page](https://nikeshbajaj.github.io/ClassicSnakeGame/)**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/Screenshot.png" width="500"/>
