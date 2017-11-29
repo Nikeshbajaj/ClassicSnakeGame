@@ -2,12 +2,12 @@
 # Javascript code using P5js
 
 ### **V[iew on Github Page](https://nikeshbajaj.github.io/ClassicSnakeGame/)**
-## [Play Online](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)[<img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/button.jpg" width="200"/>](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)
+## [Play Online](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/SnakeGame_Classic v1.0.gif" width="500"/>
 </p>
-
+[<img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/button.jpg" width="200"/>](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)
 ## How to Run
 1. Download reposetory
 2. Open "SnakeGame_Classic v1.0.html" file in any browerser
