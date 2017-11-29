@@ -4,6 +4,12 @@
 ### **V[iew on Github Page](https://nikeshbajaj.github.io/ClassicSnakeGame/)**
 ## [Play Online](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/SnakeGame_Classic v1.0.gif" width="500"/>
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/Screenshot.png" width="500"/>
 </p>
