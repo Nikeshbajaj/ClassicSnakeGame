@@ -2,8 +2,7 @@
 # Javascript code using P5js
 
 ### **V[iew on Github Page](https://nikeshbajaj.github.io/ClassicSnakeGame/)**
-## [Play Online](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)
-[<img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/button.jpg" width="00"/>](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)
+## [Play Online](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)[<img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/button.jpg" width="200"/>](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/SnakeGame_Classic v1.0.gif" width="500"/>
@@ -25,12 +24,9 @@ Thats really easy... I know you will figure it out!!!
 * Or **[Here for better view](http://nikeshbajaj.in/wp-content/uploads/2017/03/SnakeGame_v3.0.html)**
 
 Its quite fun realy!!!!!
-
-
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Nikeshbajaj/ClassicSnakeGame/master/Screenshot.png" width="200"/>
 </p>
-
 
 **@Author : Nikesh Bajaj**
 
