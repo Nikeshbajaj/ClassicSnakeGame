@@ -1,7 +1,7 @@
 # Classic Snake Game
 # Javascript code using P5js
 
-### **V[iew on Github Page](https://nikeshbajaj.github.io/ClassicSnakeGame/)**
+### **[View on Github Page](https://nikeshbajaj.github.io/ClassicSnakeGame/)**
 ## [Play Online](http://nikeshbajaj.in/wp-content/uploads/2017/11/SnakeGame_Classic-v1.0.html)
 
 <p align="center">
