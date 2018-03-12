@@ -21,6 +21,11 @@ Thats really easy... I know you will figure it out!!!
 
 ## New Two player SNAKE GAME
 #### You can desing a Two player snake game or Multi-player snake game for instast. For playing one like it go to the ###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikeshbajaj/utis/master/images/SnakeGame_v3.0.gif" width="500"/>
+</p>
+
+
 * **Description: - [http://nikeshbajaj.in/fun/](http://nikeshbajaj.in/fun/)**
 * **Game : -[Play](http://nikeshbajaj.in/wp-content/uploads/funJs/SnakeGame_v3.0_online.html)**
 
